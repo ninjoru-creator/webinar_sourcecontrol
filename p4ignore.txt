@@ -1,0 +1,10 @@
+# Perforce should ignore the following folder names and file types:
+Windows
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+*.sln
+*.zip
+*.7z
